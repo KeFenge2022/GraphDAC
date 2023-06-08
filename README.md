@@ -1,6 +1,7 @@
 # GraphDAC: A Graph-Analytic Approach to Dynamic Airspace Configuration
 
-## Abstract—The current National Airspace System (NAS) is
+## Paper Abstract：
+The current National Airspace System (NAS) is
 reaching capacity due to increased air traffic, and is based
 on outdated pre-tactical planning. This study proposes a more
 dynamic airspace configuration (DAC) approach that could
@@ -13,3 +14,7 @@ among them. Under various traffic conditions, our experiments
 demonstrate a 50% reduction in workload imbalances. This
 research could ultimately form the basis for a recommendation
 system for optimized airspace configuration.
+
+## Data source:
+Flight Delays and Cancellations were published by The U.S.
+Bureau of Transportation in 2015. This dataset is pulished on Kaggle: https://www.kaggle.com/datasets/usdot/flight-delays
