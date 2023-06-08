@@ -18,3 +18,5 @@ system for optimized airspace configuration.
 ## Data source:
 Flight Delays and Cancellations were published by The U.S.
 Bureau of Transportation in 2015. This dataset is pulished on Kaggle: https://www.kaggle.com/datasets/usdot/flight-delays
+
+To visulize the results, the FL airports location are inside the folder USA_Counties. 
